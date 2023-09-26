@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958897315110",
+    "project_id": "coffeeshopapp-a2cb5",
+    "storage_bucket": "coffeeshopapp-a2cb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958897315110:android:4f42e9b83a79c806df75e7",
+        "android_client_info": {
+          "package_name": "com.mycompany.coffeeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA90QhP6vuvF0DSpm5Dvj3Laj28ienM7-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958897315110:android:4adf125775edc69adf75e7",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA90QhP6vuvF0DSpm5Dvj3Laj28ienM7-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
